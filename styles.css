@@ -182,6 +182,7 @@ svg {
 
 .olde{
     background-image : url(Assets/scroll.jpg);
+    background-size: auto;
     font-family : great-vibes;
     font-size : 2em;
     font-weight : 600;
