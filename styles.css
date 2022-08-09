@@ -153,6 +153,8 @@ svg {
     animation: bgColor 5s infinite linear;
 
 }
+
+
 @keyframes bgColor {
     12.5% {
       background-color: #FF0000;
@@ -217,7 +219,7 @@ svg {
 
 @media (max-width:1200px){
   #username{
-    font-size: 1.5em;
+    font-size: 1.3em;
   }
   #usernamebox{
     padding: 1rem;
@@ -240,6 +242,10 @@ svg {
     padding: 0.5rem;
     margin: 0.5rem;  
 }
+.mlg #username {
+  font-size: 0.9em;
+}
+
 }
 @media (max-width:600px){
   h1{
