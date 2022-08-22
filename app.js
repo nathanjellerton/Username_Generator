@@ -356,7 +356,7 @@ generateButton.addEventListener('click', () => {
     numberIndex = Math.floor(Math.random() * numberArray.length)
     oldeNumber = numberArray[numberIndex]
 
-    usernameOutput.innerHTML = `Thy shall be knownn\n henceforth as\nThe ${oldeName}\n${first} ${last}\nthe ${oldeNumber}`
+    usernameOutput.innerHTML = `Thy shall be known\n henceforth as\nThe ${oldeName}\n${first} ${last}\nthe ${oldeNumber}`
 
     // --- Olde Style ---
     bg.className = 'olde'
